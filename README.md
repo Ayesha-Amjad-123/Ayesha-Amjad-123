@@ -31,7 +31,7 @@ I'm a Software Engineering graduate who enjoys turning ideas into polished, work
 <p align="center">
 <img src="https://img.shields.io/badge/CGPA-3.65-4f46e5?style=for-the-badge" alt="CGPA 3.65" />
 <img src="https://img.shields.io/badge/Certifications-6-4f46e5?style=for-the-badge" alt="6 certifications" />
-<img src="https://img.shields.io/badge/Projects-7-4f46e5?style=for-the-badge" alt="7 projects" />
+<img src="https://img.shields.io/badge/Projects-14+-4f46e5?style=for-the-badge" alt="14+ projects" />
 <img src="https://img.shields.io/badge/Status-Open_to_work-16a34a?style=for-the-badge" alt="Open to work" />
 </p>
 
@@ -75,6 +75,7 @@ I'm a Software Engineering graduate who enjoys turning ideas into polished, work
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
 <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+<img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white" alt="Redux" />
 <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" />
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
@@ -125,7 +126,7 @@ I'm a Software Engineering graduate who enjoys turning ideas into polished, work
 
 ## Featured Projects
 
-> Source code for these projects is kept in private repositories. Feel free to reach out for a walkthrough or demo.
+> Some projects are public on GitHub (see the Source code badges). The rest are in private repositories. Feel free to reach out for a walkthrough or demo.
 
 <br />
 
@@ -148,7 +149,7 @@ I'm a Software Engineering graduate who enjoys turning ideas into polished, work
 - Export to PDF, DOCX and TXT, with custom tone and style presets
 - Rate limiting and abuse prevention
 
-**Tech stack**&nbsp; ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+**Tech stack**&nbsp; ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
 <br />
 
@@ -156,10 +157,14 @@ I'm a Software Engineering graduate who enjoys turning ideas into polished, work
 
 *AI-powered system for detecting deepfake images and videos, with a clean upload-and-scan web interface.*
 
-![Status](https://img.shields.io/badge/Status-Fully_functional-16a34a?style=flat-square) ![Role](https://img.shields.io/badge/Role-ML_Engineer_%26_Developer-4f46e5?style=flat-square) ![Team](https://img.shields.io/badge/Team-Team_of_2-64748b?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Fully_functional-16a34a?style=flat-square) ![Role](https://img.shields.io/badge/Role-ML_Engineer_%26_Developer-4f46e5?style=flat-square) ![Team](https://img.shields.io/badge/Team-Solo-64748b?style=flat-square)
 
 <p align="center">
   <img src="assets/deepdetector-home.png" alt="DeepDetector landing page" width="100%" />
+</p>
+
+<p align="center">
+  <img src="assets/deepdetector-2.jpg" alt="DeepDetector scan interface" width="100%" />
 </p>
 
 **Highlights**
@@ -169,9 +174,9 @@ I'm a Software Engineering graduate who enjoys turning ideas into polished, work
 - Frame-by-frame analysis with confidence heatmaps
 - Drag-and-drop upload with one-click scanning and a recent uploads history
 - Forensic report generation and batch processing
-- Flask API with a React dashboard using WebSocket updates
+- Flask API with an HTML, CSS and JavaScript dashboard using WebSocket updates
 
-**Tech stack**&nbsp; ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+**Tech stack**&nbsp; ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 
 <br />
 
@@ -179,7 +184,7 @@ I'm a Software Engineering graduate who enjoys turning ideas into polished, work
 
 *Role-based collaboration platform connecting Investors and Entrepreneurs: meetings, video calls, document signing and funding in one workflow.*
 
-![Role](https://img.shields.io/badge/Role-Frontend_Intern-4f46e5?style=flat-square) ![Scope](https://img.shields.io/badge/Scope-Frontend_only-f59e0b?style=flat-square) ![Data](https://img.shields.io/badge/Data-Simulated_in_browser-64748b?style=flat-square)
+![Role](https://img.shields.io/badge/Role-Frontend_Intern-4f46e5?style=flat-square) ![Scope](https://img.shields.io/badge/Scope-Frontend_only-f59e0b?style=flat-square) ![Data](https://img.shields.io/badge/Data-Simulated_in_browser-64748b?style=flat-square) [![Source code](https://img.shields.io/badge/Source_code-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Ayesha-Amjad-123/NexusPk)
 
 <p align="center">
   <img src="assets/nexus-home.png" alt="Nexus Platform landing page" width="100%" />
@@ -216,7 +221,7 @@ I'm a Software Engineering graduate who enjoys turning ideas into polished, work
 
 *Responsive website for a medical credentialing company, presenting provider credentialing, insurance enrollment and compliance services.*
 
-![Role](https://img.shields.io/badge/Role-Frontend_Intern-4f46e5?style=flat-square) ![Scope](https://img.shields.io/badge/Scope-Frontend_only-f59e0b?style=flat-square)
+![Role](https://img.shields.io/badge/Role-Frontend_Intern-4f46e5?style=flat-square) ![Scope](https://img.shields.io/badge/Scope-Frontend_only-f59e0b?style=flat-square) [![Source code](https://img.shields.io/badge/Source_code-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Ayesha-Amjad-123/quadsolution)
 
 <p align="center">
   <img src="assets/quadsolutions-home.png" alt="Quad Solutions landing page" width="100%" />
@@ -232,15 +237,42 @@ I'm a Software Engineering graduate who enjoys turning ideas into polished, work
 
 <br />
 
-### Pet Care App
+### Paradise Nursery
 
-*Mobile-first app for pet owners, designed in Figma and built with Flutter, covering pet care, services, shopping and educational content.*
+*Online plant shop built with React and Redux Toolkit, with a landing page, a plant catalogue by category and a live shopping cart.*
 
-![Role](https://img.shields.io/badge/Role-UI%2FUX_Designer_%26_Developer-4f46e5?style=flat-square) ![Team](https://img.shields.io/badge/Team-Solo-64748b?style=flat-square) ![Platform](https://img.shields.io/badge/Platform-Mobile-0ea5e9?style=flat-square)
+![Role](https://img.shields.io/badge/Role-Front--End_Developer-4f46e5?style=flat-square) ![Scope](https://img.shields.io/badge/Scope-Frontend_only-f59e0b?style=flat-square) [![Source code](https://img.shields.io/badge/Source_code-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Ayesha-Amjad-123/paradise-nursery1)
 
 <p align="center">
-  <img src="assets/petcare-home.png" alt="Pet Care App home screen with promotional banner, pet categories, educational content and bottom navigation" width="280" />
+  <img src="assets/paradise-nursery-1.jpg" alt="Paradise Nursery shopping cart with quantity controls, total items and total price" width="49%" />
+  <img src="assets/paradise-nursery-2.jpg" alt="Paradise Nursery plant catalogue grouped by category" width="49%" />
 </p>
+
+**Highlights**
+
+- Landing page with a call to action that leads into the plant catalogue
+- Catalogue grouped by category: Beginner Friendly, Tropical, Statement Plants, Trailing Plants, Low Light and Succulents
+- Add to Cart, with the button disabled once the plant is already in the cart
+- Shopping cart with quantity increase and decrease, remove item, total items and total price
+- Cart count badge in the header that updates live
+- Client-side routing between Home, Products and Cart
+
+**Tech stack**&nbsp; ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=reactrouter&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+<br />
+
+### Pet Care App
+
+*Mobile-first app for pet owners, designed in Figma, covering pet care, services, shopping and educational content.*
+
+![Role](https://img.shields.io/badge/Role-UI%2FUX_Designer-4f46e5?style=flat-square) ![Team](https://img.shields.io/badge/Team-Solo-64748b?style=flat-square) ![Platform](https://img.shields.io/badge/Platform-Mobile-0ea5e9?style=flat-square)
+
+<p align="center">
+  <img src="assets/petcare-home.png" alt="Pet Care App home screen with promotional banner, pet categories, educational content and bottom navigation" width="31%" />
+  <img src="assets/petcare-2.jpg" alt="Pet Care App MyPet home screen" width="31%" />
+  <img src="assets/petcare-3.jpg" alt="Pet Care App shop product screen" width="31%" />
+</p>
+> Sample screens only, not the complete design. More screens will be added soon.
 
 **Highlights**
 
@@ -248,9 +280,179 @@ I'm a Software Engineering graduate who enjoys turning ideas into polished, work
 - Educational content and a services section, with bottom navigation across Home, P-Mart, Service and Pet
 - Vaccination and medication tracking with reminders
 - Vet appointment scheduler and health metrics logging
-- Multi-pet profiles, photo journal and offline-first architecture with cloud sync
+- Multi-pet profiles and a photo journal
+- MyPet home with a community banner, pet categories (Cats, Dogs, Fish, Birds) and Pets Near You
+- Petty shop product screen with size and colour options, price, favourite and Add to Cart
 
-**Tech stack**&nbsp; ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![Firestore](https://img.shields.io/badge/Firestore-FFA000?style=flat-square&logo=firebase&logoColor=white)
+**Tech stack**&nbsp; ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![UI Design](https://img.shields.io/badge/UI_Design-475569?style=flat-square) ![Prototyping](https://img.shields.io/badge/Prototyping-475569?style=flat-square) ![Mobile UI](https://img.shields.io/badge/Mobile_UI-0ea5e9?style=flat-square)
+
+<br />
+
+### Mega Mart
+
+*Mobile shopping app UI designed in Figma, with a clean red theme, category browsing, special offers and a full product listing flow.*
+
+![Role](https://img.shields.io/badge/Role-UI%2FUX_Designer-4f46e5?style=flat-square) ![Team](https://img.shields.io/badge/Team-Solo-64748b?style=flat-square) ![Platform](https://img.shields.io/badge/Platform-Mobile-0ea5e9?style=flat-square)
+
+<p align="center">
+  <img src="assets/megamart-1.jpg" alt="Mega Mart screen 1" width="19%" />
+  <img src="assets/megamart-2.jpg" alt="Mega Mart screen 2" width="19%" />
+  <img src="assets/megamart-3.jpg" alt="Mega Mart screen 3" width="19%" />
+  <img src="assets/megamart-4.jpg" alt="Mega Mart screen 4" width="19%" />
+  <img src="assets/megamart-5.jpg" alt="Mega Mart screen 5" width="19%" />
+</p>
+> Sample screens only, not the complete design. More screens will be added soon.
+
+**Highlights**
+
+- Home screen with location, search bar, special offers banner and category shortcuts (Clothes, Electronics, Watches, Shoes, Automotive, Pet Supplies)
+- Product listing screen with category chips, filters and price sorting
+- Product cards with ratings, discount badges, prices and favourite button
+- Bottom navigation across Home, Shop, Bag, Favorites and Profile
+- Filters screen with price range slider, colours, sizes, category and brand, plus a Sort by sheet
+- Add new card payment screen with card details and a default payment option
+
+**Tech stack**&nbsp; ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![UI Design](https://img.shields.io/badge/UI_Design-475569?style=flat-square) ![Prototyping](https://img.shields.io/badge/Prototyping-475569?style=flat-square) ![Mobile UI](https://img.shields.io/badge/Mobile_UI-0ea5e9?style=flat-square)
+
+<br />
+
+### Brainy Buddies Game
+
+*Playful learning game for kids, designed in Figma, where children learn alphabets, spelling, colours, animals and maths questions through levels.*
+
+![Role](https://img.shields.io/badge/Role-UI%2FUX_Designer-4f46e5?style=flat-square) ![Team](https://img.shields.io/badge/Team-Solo-64748b?style=flat-square) ![Type](https://img.shields.io/badge/Type-Kids_learning_game-ec4899?style=flat-square)
+
+<p align="center">
+  <img src="assets/brainybuddies-1.jpg" alt="Brainy Buddies Game screen 1" width="23%" />
+  <img src="assets/brainybuddies-2.jpg" alt="Brainy Buddies Game screen 2" width="23%" />
+  <img src="assets/brainybuddies-3.jpg" alt="Brainy Buddies Game screen 3" width="23%" />
+  <img src="assets/brainybuddies-4.jpg" alt="Brainy Buddies Game screen 4" width="23%" />
+</p>
+<p align="center">
+  <img src="assets/brainybuddies-5.jpg" alt="Brainy Buddies Game screen 5" width="23%" />
+  <img src="assets/brainybuddies-6.jpg" alt="Brainy Buddies Game screen 6" width="23%" />
+  <img src="assets/brainybuddies-7.jpg" alt="Brainy Buddies Game screen 7" width="23%" />
+</p>
+> Sample screens only, not the complete design. More screens will be added soon.
+
+**Highlights**
+
+- Student sign-in screen and a start screen with a friendly ABC theme
+- Game modes: Easy, Medium and Hard
+- Level-based questions such as spelling, find the yellow star and which animal is this
+- Lives shown as hearts, a level badge and a pause button
+- Alphabets and maths questions, with colourful cartoon characters designed for children
+
+**Tech stack**&nbsp; ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![UI Design](https://img.shields.io/badge/UI_Design-475569?style=flat-square) ![Prototyping](https://img.shields.io/badge/Prototyping-475569?style=flat-square) ![Game UI](https://img.shields.io/badge/Game_UI-475569?style=flat-square)
+
+<br />
+
+### HavenWorks
+
+*News app concept designed in Figma, with trending stories, latest news by category, live sports matches and saved sources.*
+
+![Role](https://img.shields.io/badge/Role-UI%2FUX_Designer-4f46e5?style=flat-square) ![Team](https://img.shields.io/badge/Team-Solo-64748b?style=flat-square) ![Platform](https://img.shields.io/badge/Platform-Mobile-0ea5e9?style=flat-square)
+
+<p align="center">
+  <img src="assets/havenworks-1.jpg" alt="HavenWorks news app screen 1" width="19%" />
+  <img src="assets/havenworks-2.jpg" alt="HavenWorks news app screen 2" width="19%" />
+  <img src="assets/havenworks-3.jpg" alt="HavenWorks news app screen 3" width="19%" />
+  <img src="assets/havenworks-4.jpg" alt="HavenWorks news app screen 4" width="19%" />
+  <img src="assets/havenworks-5.jpg" alt="HavenWorks news app screen 5" width="19%" />
+</p>
+> Sample screens only, not the complete design. More screens will be added soon.
+
+**Highlights**
+
+- Home screen with a trending story and a latest news feed with source and time
+- Category tabs: All, Sports, Politics, Business, Health and Travel
+- Sports screen with a trending story, live match scorecard and sports sources with a Save button
+- Bottom navigation across Home, Explore, Bookmark and Profile
+- Explore screen with topics (Health, Technology, Art) that can be saved, plus popular stories
+- Bookmark screen for saved articles, and a publisher profile with followers and recent news
+
+**Tech stack**&nbsp; ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![UI Design](https://img.shields.io/badge/UI_Design-475569?style=flat-square) ![Prototyping](https://img.shields.io/badge/Prototyping-475569?style=flat-square) ![Mobile UI](https://img.shields.io/badge/Mobile_UI-0ea5e9?style=flat-square)
+
+<br />
+
+### NUML Website Redesign
+
+*Recreation of the National University of Modern Languages website in Figma, with a dark hero section, photo grid and a campuses page.*
+
+![Role](https://img.shields.io/badge/Role-UI%2FUX_Designer-4f46e5?style=flat-square) ![Team](https://img.shields.io/badge/Team-Solo-64748b?style=flat-square) ![Type](https://img.shields.io/badge/Type-Website-0ea5e9?style=flat-square)
+
+<p align="center">
+  <img src="assets/numl-redesign-1.jpg" alt="NUML website redesign home page" width="100%" />
+</p>
+<p align="center">
+  <img src="assets/numl-redesign-2.jpg" alt="NUML website redesign campuses page" width="50%" />
+</p>
+> Sample screens only, not the complete design. More screens will be added soon.
+
+**Highlights**
+
+- Home page with university introduction, photo grid and social links
+- Top navigation: News, Campuses, Academic Programs, Admissions, Facilities and Contact Us, with a search bar
+- Campuses page with a card for each NUML campus: Rawalpindi, Lahore, Peshawar, Hyderabad, Karachi and more
+
+**Tech stack**&nbsp; ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![Web Design](https://img.shields.io/badge/Web_Design-475569?style=flat-square) ![Prototyping](https://img.shields.io/badge/Prototyping-475569?style=flat-square)
+
+<br />
+
+### Yale School of Art Website
+
+*Recreation of the Yale School of Art website in Figma for desktop and mobile, covering the home page, latest news and the admissions page.*
+
+![Role](https://img.shields.io/badge/Role-UI%2FUX_Designer-4f46e5?style=flat-square) ![Team](https://img.shields.io/badge/Team-Solo-64748b?style=flat-square) ![Type](https://img.shields.io/badge/Type-Website-0ea5e9?style=flat-square)
+
+<p align="center">
+  <img src="assets/yale-art-1.jpg" alt="Yale School of Art home page" width="49%" />
+  <img src="assets/yale-art-5.jpg" alt="Yale School of Art tuition and financial aid page" width="49%" />
+</p>
+<p align="center">
+  <img src="assets/yale-art-2.jpg" alt="Yale School of Art mobile screen" width="31%" />
+  <img src="assets/yale-art-3.jpg" alt="Yale School of Art mobile admissions screen" width="31%" />
+  <img src="assets/yale-art-4.jpg" alt="Yale School of Art mobile footer screen" width="31%" />
+</p>
+> Sample screens only, not the complete design. More screens will be added soon.
+
+**Highlights**
+
+- Home page with a hero image, call-to-action buttons and a Latest News section
+- Admissions page with application buttons, campus visit block and contact details
+- Responsive layouts designed for both desktop and mobile
+- Footer with quick links and an expandable Meet the Team section
+- Tuition and Financial Aid page with a contact card and expandable fee sections
+
+**Tech stack**&nbsp; ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![Responsive Design](https://img.shields.io/badge/Responsive_Design-475569?style=flat-square) ![Prototyping](https://img.shields.io/badge/Prototyping-475569?style=flat-square)
+
+<br />
+
+### CAVS 55 Event Website
+
+*Recreation in Figma of the CAVS 55 event page by MIT's Program in Art, Culture and Technology, a student project with a green and grey editorial layout.*
+
+![Role](https://img.shields.io/badge/Role-UI%2FUX_Designer-4f46e5?style=flat-square) ![Team](https://img.shields.io/badge/Team-Solo-64748b?style=flat-square) ![Type](https://img.shields.io/badge/Type-Recreation-64748b?style=flat-square)
+
+<p align="center">
+  <img src="assets/cavs55-1.jpg" alt="CAVS 55 event page hero" width="49%" />
+  <img src="assets/cavs55-2.jpg" alt="CAVS 55 about section" width="49%" />
+</p>
+<p align="center">
+  <img src="assets/cavs55-3.jpg" alt="CAVS 55 event highlights" width="49%" />
+  <img src="assets/cavs55-4.jpg" alt="CAVS 55 schedule and footer" width="49%" />
+</p>
+> Sample screens only, not the complete design. More screens will be added soon.
+
+**Highlights**
+
+- Hero banner with the event title, art collection image and opening ceremony details
+- Sections about CAVS 55 and the Center for Advanced Visual Studies with image blocks
+- Event highlight cards for film screening, public technology dialogues and the culture walk
+- Detailed session blocks, such as Technology in CAVS and Session 1, with see more links
+- Event schedule, Explore and Events buttons, and a footer with social links and a student project disclaimer
+
+**Tech stack**&nbsp; ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![Web Design](https://img.shields.io/badge/Web_Design-475569?style=flat-square) ![Prototyping](https://img.shields.io/badge/Prototyping-475569?style=flat-square)
 
 <br />
 
@@ -258,7 +460,7 @@ I'm a Software Engineering graduate who enjoys turning ideas into polished, work
 
 | Project | Description | Tech |
 |:--|:--|:--|
-| **AI Content Studio** | SaaS platform for generating and rewriting blog posts, social content and marketing copy, with brand voice training, SEO suggestions, team workspaces and Stripe billing | `MongoDB` `Express` `React` `Node.js` `Redux` `Tailwind CSS` `OpenAI` `Stripe` |
+| **AI Content Studio** | SaaS platform for generating and rewriting blog posts, social content and marketing copy, with brand voice training, SEO suggestions, team workspaces and Stripe billing | `MongoDB` `Express` `Node.js` `HTML5` `CSS3` `JavaScript` `OpenAI` `Stripe` |
 | **[Portfolio Website](https://YOUR_PORTFOLIO_URL)** | Responsive personal portfolio with smooth animations, project case studies and a certification showcase | `HTML5` `CSS3` `JavaScript` `Tailwind CSS` `GSAP` |
 
 <br />
